@@ -20,14 +20,14 @@ Voir la présentation vidéo [Resultat Final](https://glittery-twilight-7ada8e.n
 * Tirez parti de Netlify et de DataStax Astra DB.
 * Déployez le clone Netflix en production avec Netlify.
 
-## Matériel pour la session
+<details><summary>C'est quoi Graphql</summary>
+GraphQL est un langage de requête de données open source développé par Facebook en 2012 pour simplifier la communication entre les applications frontales et les serveurs de données. Contrairement aux API REST traditionnelles, GraphQL permet aux clients de spécifier précisément les données dont ils ont besoin, ce qui évite le surchargement de l'API avec des requêtes multiples et redondantes.
 
-Peu importe que vous rejoigniez notre atelier en direct ou que vous préfériez le faire à votre rythme, nous avons ce qu'il vous faut. Dans ce référentiel, vous trouverez tout ce dont vous avez besoin pour cet atelier :
+Avec GraphQL, les clients peuvent interroger une API pour récupérer uniquement les données nécessaires à leur application, ce qui peut réduire considérablement la quantité de données transférées et améliorer les performances. GraphQL fournit également une documentation complète pour l'API, ce qui facilite la compréhension et l'utilisation de l'API par les développeurs.
 
-- [Slide deck](slides/slides.pdf)
-- [Discord chat](https://bit.ly/cassandra-workshop)
-- ["cassandra" sur StackOverflow](https://stackoverflow.com/questions/tagged/cassandra)
-- ["cassandra" sur DBA StackExchange](https://dba.stackexchange.com/questions/tagged/cassandra)
+En somme, GraphQL est un langage de requête flexible et efficace pour les API qui permet aux clients de spécifier exactement les données dont ils ont besoin, en évitant le gaspillage de ressources et en améliorant les performances.
+
+</details>
 
 # Commençons
 
