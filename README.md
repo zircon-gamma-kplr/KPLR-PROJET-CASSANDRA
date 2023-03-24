@@ -9,9 +9,9 @@
 Un simple clone de page d'accueil **ReactJS** Netflix exécuté sur **DataStax DB** qui exploite l'API **GraphQL** avec *pagination* et *défilement infini*.
 <!--- ENDEXCLUDE --->
 
-Voir la présentation vidéo [Video Walkthrough](https://imgur.com/3ns3UJB) de ce que vous allez construire !
+Voir la présentation vidéo [Resultat Final](https://glittery-twilight-7ada8e.netlify.app/) de ce que vous allez construire !
 
-![image](https://github.com/yahia-kplr/workshop-graphql-netflix/blob/master/images/ui.png)
+![🎓Cloner Netflix avec Datastax et GraphQL](https://user-images.githubusercontent.com/123748165/226187624-3012341b-d74a-41a5-8a5b-181121091157.png)
 
 ## 🎯  Objectifs
 * Créez et exécutez un clone Netflix.
